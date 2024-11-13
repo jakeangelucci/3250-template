@@ -14,5 +14,5 @@ A template to reference when creating new data analytics projects
 
 ## Change log
 
-- 2024-11-13 mwc Added new items
-- 2024-11-12 mwc Deleted items
+- 2024-11-13 Jangelucci edited the file
+- 2024-11-12 Jangelucci Deleted items
