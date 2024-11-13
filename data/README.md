@@ -1,18 +1,13 @@
-# 3250-template
+# Data Folder
 
-A template to reference when creating new data analytics projects
+## Folders
 
-# To Do List
+### Raw
 
-[ ] item 1  
-[ ] item 2  
-~[x] item 3~  
-[ ] item 4  
-~[x] task 2~
+Orignial, unmodified data after downloading, scraping, etc.
+
+### Final
+
+Data after all cleaning, processing, and analyzing.
 
 ---
-
-## Change log
-
-- 2024-11-13 mwc Added new items
-- 2024-11-12 mwc Deleted items
