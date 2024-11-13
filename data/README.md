@@ -2,6 +2,9 @@
 
 ## Folders
 
+Source data:
+https://www.kaggle.com/datasets/redlineracer/nfl-combine-performance-data-2009-2019/data
+
 ### Raw
 
 Orignial, unmodified data after downloading, scraping, etc.
