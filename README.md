@@ -8,7 +8,7 @@ A template to reference when creating new data analytics projects
 [ ] item 2  
 ~[x] item 3~  
 [ ] item 4  
-~[x] task 2~
+~[x] task 5~
 
 ---
 
