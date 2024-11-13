@@ -4,7 +4,7 @@ A template to reference when creating new data analytics projects
 
 # Project Description
 
-Include a breif description of the project. Include any steps and their due dates (if applicable) that need to be taken in a particular order
+Include a brief description of the project. Include any steps and their due dates (if applicable) that need to be taken in a particular order
 
 # To Do List
 
